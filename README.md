@@ -1,5 +1,6 @@
 # Projeto 3: De Pátria para Pátria
-
+Publicado no Git 
+* [Link para o projeto no Git Pages](https://alissoares89.github.io/web_project_3_ptbr/index.html)
 ## Practicum - Yandex
 
 ### 1. Sobre o projeto:

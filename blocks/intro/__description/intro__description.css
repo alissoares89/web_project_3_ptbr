@@ -4,17 +4,11 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 1.6;
-  margin: 32px 0 0 0;
-}
-
-@media screen and (max-width: 768px) {
-  .intro__description {
-    max-width: 720px;
-  }
+  margin: 42px 0 0 0;
 }
 
 @media screen and (max-width: 320px) {
   .intro__description {
-    max-width: 288px;
+    margin-top: 18px;
   }
 }

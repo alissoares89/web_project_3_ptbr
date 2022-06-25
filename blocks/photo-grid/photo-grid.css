@@ -34,5 +34,12 @@
     padding-top: 38px;
     padding-bottom: 62px;
     margin: 0 16px;
+    /*
+    Comentário de Julia Barcelos:
+    "Essa margin não é requerida, a imagem precisa ir de extremo a extremo em 320px"
+    
+    Réplica do autor:
+    "Pelo briefing, a imagem que vai do extremo a extremo, é a de baixo, a place__image"
+    */
   }
 }
